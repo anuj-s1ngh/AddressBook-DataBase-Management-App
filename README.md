@@ -4,4 +4,4 @@
 
 ![Screenshot (117)](https://user-images.githubusercontent.com/62144435/133024341-cedb6f7e-6846-48fd-8522-24bf9c3d2415.png)
 
- GUI Database Management App with CRUD operations enabled.
+ GUI AddressBook Database Management App with CRUD operations enabled.
