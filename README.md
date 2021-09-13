@@ -1,2 +1,2 @@
 # DataBase-Management-App
- Database Management App with CRUD operations enabled.
+ GUI Database Management App with CRUD operations enabled.
