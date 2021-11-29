@@ -1,4 +1,4 @@
-# DataBase-Management-App
+# AddressBook-Management-App
 
 ![Screenshot (115)](https://user-images.githubusercontent.com/62144435/133024332-87fe1668-7480-49db-9c01-68d14be0881c.png)
 
